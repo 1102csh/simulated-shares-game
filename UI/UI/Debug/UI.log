@@ -1,0 +1,32 @@
+﻿  ui.c
+C:\Users\user\source\repos\UI\UI\ui.c(52,9): warning C4013: 'gotoxy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\UI\UI\ui.c(134,13): warning C4013: 'print_money'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\UI\UI\ui.c(138,11): warning C4013: 'color_str'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\UI\UI\ui.c(143,7): warning C4013: 'color'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\UI\UI\ui.c(165,17): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\source\repos\UI\UI\ui.c(179,18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\source\repos\UI\UI\ui.c(194,18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\user\source\repos\UI\UI\ui.c(338,17): warning C4013: 'print_money2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\UI\UI\ui.c(221,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\user\source\repos\UI\UI\ui.c(225,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\user\source\repos\UI\UI\ui.c(433,26): warning C4013: 'input_key'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\UI\UI\ui.c(468,8): warning C4013: 'script'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\UI\UI\ui.c(482,8): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\UI\UI\ui.c(644,48): warning C4244: '함수': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\UI\UI\ui.c(440,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\user\source\repos\UI\UI\ui.c(550,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\user\source\repos\UI\UI\ui.c(442,10): warning C4101: 'cy' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\UI\UI\ui.c(773,17): warning C4013: 'cs'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\UI\UI\ui.c(1062,35): warning C4133: '함수': 'ownStock *'과(와) 'Company *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\source\repos\UI\UI\ui.c(1062,38): warning C4133: '함수': 'Company *'과(와) 'ownStock *' 사이의 형식이 호환되지 않습니다.
+C:\Users\user\source\repos\UI\UI\ui.c(819,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+C:\Users\user\source\repos\UI\UI\ui.c(1602,51): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\UI\UI\ui.c(3152,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  소스.c
+C:\Users\user\source\repos\UI\UI\소스.c(119,12): warning C4013: 'stockmain'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\UI\UI\소스.c(121,15): warning C4020: 'event': 실제 매개 변수가 너무 많습니다.
+C:\Users\user\source\repos\UI\UI\소스.c(130,16): warning C4020: 'event': 실제 매개 변수가 너무 많습니다.
+C:\Users\user\source\repos\UI\UI\소스.c(137,8): warning C4013: 'credit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\UI\UI\소스.c(66,1): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  코드를 생성하고 있습니다...
+  UI.vcxproj -> C:\Users\user\source\repos\UI\Debug\UI.exe
